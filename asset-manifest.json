@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mathslides/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/mathslides/static/js/main.8d6486e5.chunk.js",
+    "main.js.map": "/mathslides/static/js/main.8d6486e5.chunk.js.map",
+    "runtime-main.js": "/mathslides/static/js/runtime-main.01c671e0.js",
+    "runtime-main.js.map": "/mathslides/static/js/runtime-main.01c671e0.js.map",
+    "static/js/2.6acee0e9.chunk.js": "/mathslides/static/js/2.6acee0e9.chunk.js",
+    "static/js/2.6acee0e9.chunk.js.map": "/mathslides/static/js/2.6acee0e9.chunk.js.map",
+    "index.html": "/mathslides/index.html",
+    "precache-manifest.9ae7b4bf0a312b636203cbfad05a4665.js": "/mathslides/precache-manifest.9ae7b4bf0a312b636203cbfad05a4665.js",
+    "service-worker.js": "/mathslides/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/mathslides/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6acee0e9.chunk.js.LICENSE.txt": "/mathslides/static/js/2.6acee0e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01c671e0.js",
+    "static/js/2.6acee0e9.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8d6486e5.chunk.js"
+  ]
+}
