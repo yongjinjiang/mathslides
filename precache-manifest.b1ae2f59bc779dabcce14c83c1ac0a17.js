@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5841e8bbee2f2dbc85bcbd335b321ed",
+    "revision": "4e030bb4bc95bec7ea85d8469a9b7758",
     "url": "/mathslides/index.html"
   },
   {
-    "revision": "660cd754d903fa33b97e",
+    "revision": "e448cc2e592906c6b96e",
     "url": "/mathslides/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mathslides/static/js/2.ab46994a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "660cd754d903fa33b97e",
-    "url": "/mathslides/static/js/main.9087972b.chunk.js"
+    "revision": "e448cc2e592906c6b96e",
+    "url": "/mathslides/static/js/main.6a20778c.chunk.js"
   },
   {
     "revision": "b8f8ff0b7e9fecbcf5b4",
