@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mathslides/static/css/main.0a39a5e5.chunk.css",
-    "main.js": "/mathslides/static/js/main.8f1847eb.chunk.js",
-    "main.js.map": "/mathslides/static/js/main.8f1847eb.chunk.js.map",
+    "main.js": "/mathslides/static/js/main.4bee8de8.chunk.js",
+    "main.js.map": "/mathslides/static/js/main.4bee8de8.chunk.js.map",
     "runtime-main.js": "/mathslides/static/js/runtime-main.01c671e0.js",
     "runtime-main.js.map": "/mathslides/static/js/runtime-main.01c671e0.js.map",
     "static/js/2.bb25c456.chunk.js": "/mathslides/static/js/2.bb25c456.chunk.js",
     "static/js/2.bb25c456.chunk.js.map": "/mathslides/static/js/2.bb25c456.chunk.js.map",
     "index.html": "/mathslides/index.html",
-    "precache-manifest.3f5a8cdadeae19821ecaf7f4686545e6.js": "/mathslides/precache-manifest.3f5a8cdadeae19821ecaf7f4686545e6.js",
+    "precache-manifest.c8eee1cf222a501425eed700a3b20fcd.js": "/mathslides/precache-manifest.c8eee1cf222a501425eed700a3b20fcd.js",
     "service-worker.js": "/mathslides/service-worker.js",
     "static/css/main.0a39a5e5.chunk.css.map": "/mathslides/static/css/main.0a39a5e5.chunk.css.map",
     "static/js/2.bb25c456.chunk.js.LICENSE.txt": "/mathslides/static/js/2.bb25c456.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.01c671e0.js",
     "static/js/2.bb25c456.chunk.js",
     "static/css/main.0a39a5e5.chunk.css",
-    "static/js/main.8f1847eb.chunk.js"
+    "static/js/main.4bee8de8.chunk.js"
   ]
 }
